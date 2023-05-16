@@ -37,9 +37,7 @@
 
 Вся анимация содержится в компоненте `WaterBottle`.
 
-<video width="300" height="651" controls>
-  <source src="example-assets/water-animation.mp4" type="video/mp4">
-</video>
+https://github.com/hatamsoyunov/code-examples/assets/24550178/795829fc-d30d-4503-b26a-3bfb21b5285f
 
 ## Виджеты
 
